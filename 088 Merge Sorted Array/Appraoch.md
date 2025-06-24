@@ -9,3 +9,6 @@
     - Actual test cases: Failed
 
 3. The logic here is to begin from the end and iterate, merging the list from behind with bigger elements.
+- Status:
+    - Sample Test Case: Passed
+    - Actual test cases: Passed
