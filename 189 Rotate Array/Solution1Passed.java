@@ -1,4 +1,4 @@
-class Solution1Passed {
+public class Solution1Passed {
 
     public void swapper(int[] nums, int start, int end) {
         int mid = (int)(start+end)/2;
